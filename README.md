@@ -24,7 +24,9 @@ Put simply, TMDB live and breathe community and that's precisely what makes TMDB
 
 
 # Acknowledgments
-Udacity learning community 
+- Udacity learning community 
+- The dataset used in this project was generated from [The Movie Database](https://www.kaggle.com/datasets/tmdb/themoviedb.org) API. This product uses the TMDb API but is not endorsed or certified by TMDb.
+Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. You can [try it for yourself here](https://www.themoviedb.org/documentation/api).
 
 # Author
 Name : Oguche Victor Ojochenemi
