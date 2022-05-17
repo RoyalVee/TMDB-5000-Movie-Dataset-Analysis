@@ -13,6 +13,10 @@ Every piece of data has been added by an amazing community dating back to 2008.
 TMDb's strong international focus and breadth of data is largely unmatched and something they are incredibly proud of. 
 Put simply, TMDB live and breathe community and that's precisely what makes TMDB different.
 
+# Dataset links
+- [Raw Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+- [Pre-cleaned data](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv)
+
 # Files
 
 
