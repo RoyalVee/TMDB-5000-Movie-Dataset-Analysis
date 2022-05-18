@@ -1,4 +1,4 @@
-# TMDB-5000-Movie-Dataset-Analysis
+# TMDB-Movie-Dataset-Analysis
 Analysis on the The Movie Database (TMDb) to generate cutting edge business insight from the dataset distribution. 
 
 # Background
